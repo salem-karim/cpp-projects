@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/out/Debug",
+  "command": "/home/karim/.nix-profile/bin/c++   -g -std=gnu++14 -o CMakeFiles/Flottenkampf.dir/main.cpp.o -c /home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/main.cpp",
+  "file": "/home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/main.cpp",
+  "output": "CMakeFiles/Flottenkampf.dir/main.cpp.o"
+},
+{
+  "directory": "/home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/out/Debug",
+  "command": "/home/karim/.nix-profile/bin/c++   -g -std=gnu++14 -o CMakeFiles/Flottenkampf.dir/Spiel/Spiel.cpp.o -c /home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/Spiel/Spiel.cpp",
+  "file": "/home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/Spiel/Spiel.cpp",
+  "output": "CMakeFiles/Flottenkampf.dir/Spiel/Spiel.cpp.o"
+},
+{
+  "directory": "/home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/out/Debug",
+  "command": "/home/karim/.nix-profile/bin/c++   -g -std=gnu++14 -o CMakeFiles/Flottenkampf.dir/Schiff/Schiff.cpp.o -c /home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/Schiff/Schiff.cpp",
+  "file": "/home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/Schiff/Schiff.cpp",
+  "output": "CMakeFiles/Flottenkampf.dir/Schiff/Schiff.cpp.o"
+},
+{
+  "directory": "/home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/out/Debug",
+  "command": "/home/karim/.nix-profile/bin/c++   -g -std=gnu++14 -o CMakeFiles/Flottenkampf.dir/Jaeger/Jaeger.cpp.o -c /home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/Jaeger/Jaeger.cpp",
+  "file": "/home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/Jaeger/Jaeger.cpp",
+  "output": "CMakeFiles/Flottenkampf.dir/Jaeger/Jaeger.cpp.o"
+},
+{
+  "directory": "/home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/out/Debug",
+  "command": "/home/karim/.nix-profile/bin/c++   -g -std=gnu++14 -o CMakeFiles/Flottenkampf.dir/Kreuzer/Kreuzer.cpp.o -c /home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/Kreuzer/Kreuzer.cpp",
+  "file": "/home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/Kreuzer/Kreuzer.cpp",
+  "output": "CMakeFiles/Flottenkampf.dir/Kreuzer/Kreuzer.cpp.o"
+},
+{
+  "directory": "/home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/out/Debug",
+  "command": "/home/karim/.nix-profile/bin/c++   -g -std=gnu++14 -o CMakeFiles/Flottenkampf.dir/Zerstoerer/Zerstoerer.cpp.o -c /home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/Zerstoerer/Zerstoerer.cpp",
+  "file": "/home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/Zerstoerer/Zerstoerer.cpp",
+  "output": "CMakeFiles/Flottenkampf.dir/Zerstoerer/Zerstoerer.cpp.o"
+},
+{
+  "directory": "/home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/out/Debug",
+  "command": "/home/karim/.nix-profile/bin/c++   -g -std=gnu++14 -o CMakeFiles/Flottenkampf.dir/Welt/Welt.cpp.o -c /home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/Welt/Welt.cpp",
+  "file": "/home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/Welt/Welt.cpp",
+  "output": "CMakeFiles/Flottenkampf.dir/Welt/Welt.cpp.o"
+}
+]

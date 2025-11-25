@@ -1,0 +1,3 @@
+/home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/out/Debug/CMakeFiles/Flottenkampf.dir
+/home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/out/Debug/CMakeFiles/edit_cache.dir
+/home/karim/dev/CS-Bachelor/Semester-2/C++Files/Flottenkampf/out/Debug/CMakeFiles/rebuild_cache.dir
